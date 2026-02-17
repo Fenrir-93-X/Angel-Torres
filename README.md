@@ -2,7 +2,7 @@
 <h3 align="center"> Data Analyst | Data scientist </h3>
 
 <h1 align="center"> About me  </h1>
-<div style="text-align: center; max-width: 800px; margin: 0 auto;">
+<p align="center">
 🔬 Professional profile: Data scientist and analyst, combining research rigor with a practical approach..<br>
 🐍 Technical mastery: Python for analysis and modeling, SQL for efficient queries, Power BI and Tableau for impactful visualizations..<br>
 📊 Specialty: Statistical modeling applied to complex problem-solving and prediction..<br>
@@ -10,7 +10,7 @@
 🌍 Sector interests: Environmental, spatial (geographic), and financial data analysis, where data tells critical stories..<br>
 💡 Philosophy: Turning numbers into decisions, while maintaining curiosity and the scientific method..<br>
 🔎 Seeking: Challenges where I can merge my scientific background with data analysis to generate real impact.
-</div>
+</p>
 
 <h1 align="center"> Tech Stack  </h1>
 <p align="center">
@@ -75,7 +75,5 @@
 
 <p align="Center">
 <a href="https://www.linkedin.com/in/angel-torres-5a6a36352/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
-<a href="https://discord.gg/angelt168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
-<a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
-<a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+
 </p>
