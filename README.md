@@ -15,6 +15,16 @@ Data Analyst | Data scientist
 
 
 # GitHub Stats 
+![](https://github-readme-stats.vercel.app/api?username=Fenrir-93-X&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fenrir-93-X&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenrir-93-X&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Connect with me:
 
+#  <h3 align="Center">Connect with me:</h3>
+
+<p align="Center">
+<a href="https://www.linkedin.com/in/angel-torres-5a6a36352/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://discord.gg/angelt168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" /></a>
+<a href="https://twitter.com/andersonmr5302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@andermendoza" height="30" width="40" /></a>
+<a href="https://instagram.com/anderson_mend53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+</p>
