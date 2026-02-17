@@ -1,10 +1,20 @@
-# Angel-Torres
-@@ -1,7 +1,7 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
-</div>
-<img src="https://i.imgur.com/weNbhGZ.png">
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
+# Angel Torres
+Data Analyst | Data scientist
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+# About me 
+
+🔬 Professional profile: Data scientist and analyst, combining research rigor with a practical approach..<br>
+🐍 Technical mastery: Python for analysis and modeling, SQL for efficient queries, Power BI and Tableau for impactful visualizations..<br>
+📊 Specialty: Statistical modeling applied to complex problem-solving and prediction..<br>
+🧪 Background: Experience in the scientific field, with skills in experiment design and hypothesis validation..<br>
+🌍 Sector interests: Environmental, spatial (geographic), and financial data analysis, where data tells critical stories..<br>
+💡 Philosophy: Turning numbers into decisions, while maintaining curiosity and the scientific method..<br>
+🔎 Seeking: Challenges where I can merge my scientific background with data analysis to generate real impact.
+
+# Tech Stack
+
+
+# GitHub Stats 
+
+# Connect with me:
+
